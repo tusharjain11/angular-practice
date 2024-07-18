@@ -1,1 +1,1 @@
-# react-practice
+# angular-practice
